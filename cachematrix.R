@@ -1,6 +1,6 @@
 ## Caching the Inverse of a Matrix:
 ## To reduce the work time it is beneficial to cache the inverse of a matrix rather than computing it when it is needed.
-## Functions 1 creates a special object that stores a matrix and caches its inverse. 
+## Function 1 creates a special object that stores a matrix and caches its inverse. 
 ## Function 2 creates a special object that can cache its inverse.
 
 ## Function 1:
